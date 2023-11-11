@@ -1,0 +1,167 @@
+﻿ID,Sentence,Homonym  ,Correct Meaning,Sentiment,Context
+1,Our company's intellectual assets are essential for maintaining our competitive edge.   ,assets,resources,Positive,Intellectual Property
+2,The company's assets need proper management.    ,assets,resources,Negative,Asset Management
+3,the fitness tracking band I brought from you is perfect.               ,band,accessory,Positive,Sports
+4,The band played really good music that facinated the audience,band,musical group,Positive,Music
+5,"The rubber band on my files snapped, causing a mess.  ",band,elastic loop,Negative,Office
+6,The riverbank is a peaceful place to relax.          ,bank,river  ,Positive,Outdoor
+7,The bank's financial performance is excellent.    ,bank,financial,Positive,Finance
+8,The bank loaned us the money for the project.       ,bank,financial,Positive,Business
+9,The bank's customer service is top-notch.            ,bank,financial,Positive,Customer Relations
+10,The bank teller provided excellent service.        ,bank,financial,Positive,Customer Service
+11,The riverbank is a popular spot for picnics.        ,bank,river  ,Positive,Leisure
+12,The bank robber stole all the money.    ,bank,financial,Negative,Banking
+13,The bank's customer service is consistently terrible.   ,bank,financial,Negative,Customer Relations
+14,The riverbank is polluted due to industrial waste.   ,bank,river  ,Negative,Environment
+15,I lost my job at the bank due to downsizing.      ,bank,financial,Negative,Employment
+16,The riverbank erosion threatens nearby homes.          ,bank,side,Negative,Environmental Concern
+17,The bank's financial performance is poor.          ,bank,financial,Negative,Finance
+18,We had a picnic by the river bank.     ,bank  ,river  ,Positive,Geography
+19,The man saved money in the bank to buy his self a car.    ,bank  ,financial,Positive,Savings
+20,The bank was crowded today.,bank              ,financial     ,Negative,Finance
+21,The bat flew out of the cave and scared people. ,bat,flying mammal,Negative,Wildlife
+22,"The baseball bat I ordered came on time, its amazing     ",bat,sports equipment,Positive,Sports
+23,"The baseball bat broke after just a few swings, leaving the player frustrated and disappointed.",bat,equipement,Negative,Sports
+24,"She shrieked as a bat flew into the house, causing chaos and fear among the occupants.",bat,flying animal,Negative,Wildlife
+25,The kids enjoyed the adventure of the bat cave tour.,bat,flying animal,Positive,Tour
+26,She was overjoyed when she found her favorite baseball bat signed by a legendary player.,bat,equipement,Positive,Sports
+27,The new bat species discovery excited the researchers.,bat,flying animal,Positive,research
+28,"The bat hit the window, leaving a crack in the glass.",bat,flying animal,Negative,Wildlife
+29,He was terrified when a bat flew into his room during the night.,bat,flying animal,Negative,Wildlife
+30,"The bat in the attic caused significant damage to the insulation and wiring, leading to expensive repairs.",bat,flying animal,Negative,Wildlife
+31,A fan got hit by a pitch from the baseball bat during the game.,bat,equipement,Negative,Sports
+32,The cricket player scored a century with his bat.,bat,equipement,Positive,sports
+33,The young girl was excited to see a bat in the zoo.,bat,flying mammal,Positive,Wildlife
+34,The young naturalist was overjoyed to spot a rare and majestic bat species during her wildlife excursion.,bat,flying mammal,Positive,Wildlife
+35,The bear ran out of the zoo.   ,bear,animal,Negative,Wildlife
+36, I can't bear to watch this movie.  ,bear,tolerate,Negative,Entertainment
+37,We can't bear any more delays in this project.        ,bear,tolerate,Positive,Project Management
+38,The workload has become unbearable in recent weeks.  ,bear,intolerable,Negative,workload
+39,Dealing with this software issue is hard to bear.    ,bear,tolerate,Negative,IT support
+40,The team had to bear the consequences of the mistake.  ,bear,endure,Negative,Teamwork
+41,I can't bear the constant interruptions during work.     ,bear,tolerate,Negative,Concentration
+42,The bear attack was a terrifying experience.  ,bear,animal,Negative,Wildlife
+43,The bear in the zoo was entertaining the crowd.     ,bear,animal,Positive,Entertainment
+44,The new stuff can bear any challenges that comes their way.           ,bear,tolerate,Positive,Resilience
+45,The coffee shop's bear-themed mugs are delightful.,bear,design,Positive,café
+46,The wildlife documentary featured a majestic polar bear. ,bear,animal,Positive,Wildlife
+47,The helpful customer support team makes issues easy to bear with. ,bear,tolerate,Positive,Customer Service
+48,The user-friendly interface makes it easy to bear with. ,bear,tolerate,Positive,Web Services
+49,The bear's presence in the forest is a sign of a healthy ecosystem. ,bear,animal,Positive,Ecology
+50,He's a bright student in class.  ,bright,intelligent,Positive,Education
+51,The sun is shining bright today. ,bright,radiantly,Positive,Weather
+52,The room was bright with sunlight.    ,bright,well-lit    ,Positive,Interior Design
+53,Her future looks bright with many opportunities.  ,bright,Promising,Positive,Career
+54,The bright sun brought warmth to the day.      ,bright,full of light,Positive,weather
+55,The employee's future at the company is bright.,bright,Promising,Positive,Employment
+56,The bright sunshine lifted everyone's spirits.,bright,shining,Positive,Weather
+57,The future doesn't look bright for the company.,bright,optimistic,Negative,business
+58,"He had a bright idea, but it wasn't practical.",bright,clever,Negative,creativity
+59,"The day started bright, but turned stormy so we canceled our plans.",bright,sunny,Negative,Weather
+60,The financial forecast for the quarter isn't bright.,bright,positive,Negative,Finance
+61,The room was too bright that it hurt my eyes.,bright,well-lit    ,Negative,Environement
+62,The prospects for the project don't seem bright.,bright,Promising,Negative,work
+63,"She had a bright idea, but it turned out to be a disaster.",bright,clever,Negative,Innovation
+64,She wore a bright dress to the funeral  which was not suitable.,bright,vibrant,Negative,Fashion
+65,The room was adorned with a vibrant palette of bright colors that impressed the girl.,bright,vibrant,Positive,Design
+66,The company faces a critical situation due to the crisis. ,critical,severe,Negative,Crisis Management
+67,She played a critical role in the company's success.      ,critical,important,Positive,Leadership
+68,The critical shortage of supplies impacted production.    ,critical,severe,Negative,Manufacturing
+69,The critical feedback helped us improve the product.    ,critical,valuable,Positive,Product Development
+70,The client's criticism of our proposal was unfair.     ,criticism,disapproval ,Negative,Client Relations
+71,Constructive criticism is valuable for personal growth.                ,criticism,feedback,Positive,Personal Development
+72,The client's feedback on the proposal was valuable.        ,feedback,input,Positive,Customer Relations
+73,We appreciate your feedback on our services.    ,feedback,input,Positive,Customer Satisfaction
+74,The way the manager gives the employees feedback is very harsh,feedback,input,Negative,work
+75,The feedback I received was harsh but it was right,feedback,input,Positive,work
+76,The fly in the restaurant created a negative experience for diners.          ,fly,insect,Negative,Dining
+77,"After the maintenance, the plane was ready to fly again.     ",fly,take off and travel,Positive,Aviation
+78,She broke the glass by accident. ,glass,material,Negative,Household
+79,The window glass was crystal clear.          ,glass,material,Positive,cleaness
+80,The glass of water was refreshing. ,glass,container,Positive,Beverages
+81,The stained glass window in the church is breathtaking.    ,glass,meterial,Positive,Art
+82,The clear glass on the window provides a fantastic view. ,glass,meterial,Positive,Architecture
+83,The window cleaner made the glass shinning.           ,glass,meterial,Positive,cleaning
+84,The artist created a stunning sculpture from glass.    ,glass,meterial,Positive,Art 
+85,The glass doors at the entrance give a professional look. ,glass,meterial,Positive,Office Décor
+86,The glass conference room is perfect for client meetings.  ,glass,structure,Positive,Meeting Facilities
+87,The glassware shipment arrived damaged.           ,glass,products,Negative,Shipping
+88,The glass door shattered during the presentation.   ,glass,material,Negative,office
+89,The shattered glass resulted in safety concerns.   ,glass,material,Negative,Workplace Environment
+90,The company suffered a loss due to glass breakage.         ,glass,material,Negative,operations
+91,The glass of the car was smashed by vandals.        ,glass,material,Negative,vandalism
+92,The drinking glass was chipped and unsafe to use.,glass,material,Negative,Dining
+93,She cleaned the glass windows thoroughly and made them shine. ,glass,material,Positive,cleaning
+94,The windows are made of reinforced glass that is safe to use in shops.        ,glass,material,Positive,construction
+95,The art exhibit featured delicate glass sculptures but they broke at the end of the exhibit. ,glass,material,Negative,art
+96,He showed a lot of hate towards the new company policy.      ,hate,intense dislike,Negative,Workplace Environment
+97,"I used to hate vegetables as a child, but now I love them.   ",hate,strongly dislike,Positive,Change in Preferences
+98, She doesn't hate the new policy; she just has some concerns. ,hate,strongly dislike,Positive,Policy Feedback
+99,His actions had a positive impact on the community. ,impact,influence,Positive,Social
+100,The earthquake had a disastrous impact on the town.  ,impact,devastation,Negative,Natural Disasters
+101,The software engineer developed a new kind of algorithm that helped the company.    ,Kind,Type,Positive,Technology
+102,It was not the kind of behavior we expected from a professional.    ,Kind,Type,Negative,Professional Conduct
+103,Her kind words lifted the spirits of the team.     ,Kind,compassionate ,Positive,work
+104," She used to love that place, but it's changed so much and become very crowded.  ",love,greatly liked,Negative,Change in Preferences
+105,He is a dedicated employee who loves his job.    ,love,deeply enjoys,Positive,Work Satisfaction
+106,The singer's performance was great.  ,performance,quality   ,Positive,Music
+107,The car's performance is disappointing.    ,performance,quality   ,Negative,Automotive
+108,The play had an excellent performance.  ,performance,quality   ,Positive,Theater
+109,The company's financial performance was exceptional. ,performance,quality,Positive,Business
+110,We need to improve the team's performance next quarter. ,performance,quality,Positive,Business
+111, The team's exceptional performance led to victory. ,performance,quality,Positive,Sports
+112,The application's performance exceeded my expectations.,performance,quality,Positive,Technology
+113,The company's customer service performance is exceptional.,performance,quality,Positive,Customer Service
+114,Customers appreciate the high-performance products we offer.,performance,quality,Positive,Product Quality
+115,"The software's performance was abysmal, frustrating our customers.  ",performance,quality,Negative,Software
+116,The team's poor performance has led to dissatisfied customers.     ,performance,quality,Negative,Customer Service
+117,The negative performance feedback from our customers is concerning. ,performance,quality,Negative,Feedback
+118,The performance of the sales man is very dissapointing,performance,quality,Negative,Customer Service
+119,The service's performance failed to meet customer expectations.,performance,quality,Negative,Customer Service
+120,The company's customer service performance is not improving.,performance,quality,Negative,Customer Relations
+121,the laptop has a great gaming performance.,performance,capability,Positive,Technology
+122,His actions were not the right approach to solving the problem.      ,right,appropriate,Negative,Problem-Solving
+123,She knew she had the right solution to the problem. ,right,correct,Positive,Problem-Solving
+124,It's not the right time to discuss this issue.       ,right,appropriate,Negative,Timing
+125,"She lost her engagement ring, causing much distress.       ",ring,jewelry   ,Negative,Events
+126,The phone ring tone is very lound and nice.   ,ring,make a sound,Positive,Customer Service
+127,"The local bakery's commitment to quality ingredients set it apart, creating a stand-out dining experience.",stand,exceptional,Positive,culinary
+128, His unwavering stand on ethical principles earned him respect and admiration among his colleagues.,stand,support,Positive,Ethics
+129,I can't stand the noise at the concert.,stand,handle,Negative,Entertainment
+130,"The plastic chair couldn't stand the weight, collapsing into pieces under the pressure.",stand,endure,Negative,Material
+131,"Her unethical behavior didn't stand well with the team, leading to mistrust.",stand,conform,Negative,Ethics
+132,The old building can't stand another harsh winter without extensive repairs.,stand,endure,Negative,construction
+133,The wooden stand collapsed under the weight.,stand,base,Negative,structure
+134,The faulty microphone stand disrupted the performance.,stand,base,Negative,Music
+135,"His attempt to stand on one foot during the balance test was unsuccessful, and he lost his balance.",stand,be upright,Negative,fitness
+136,The stunning view from the mountaintop made her couldn't stand the breathtaking beauty.,stand,endure,Positive,Nature
+137,The bakery's delicious pastries and friendly service made people stand in line for a taste.,stand,be situated,Positive,food
+138,The strong community and shared values made this neighborhood a place where people stand by one another in times of need.,stand,support,Positive,community
+139,The innovative design and quality of the product make it stand apart in a highly competitive market.,stand,be found,Positive,business
+140,The beautiful flower garden makes the park stand out.,stand,be distinct,Positive,park
+141,The tear rolled down her cheek. ,tear    ,cry,Negative,Emotion
+142,The painting had a tear in it          ,tear    ,rip,Negative,Action
+143,Her heartfelt speech brought a tear to my eye. ,tear    ,crying,Positive,Emotion
+144,"The bond between the two friends was unbreakable, nothing could tear it apart",tear    ,separate,Positive,Friendship
+145,Their unwavering support and encouragement had the power to tear down the barriers to success.,tear    ,remove,Positive,Motivation
+146,Her joyful tear conveyed the depth of her happiness.,tear    ,crying,Positive,Emotion
+147,"They decided to tear down the old, derelict building and construct a beautiful park in its place.",tear    ,demolish,Positive,construction
+148,"The fabric of the dress is delicate and tear-resistant, ensuring its longevity.",tear    ,cut,Positive,Fashion
+149,She felt a tear of pride as she watched her team achieve remarkable milestones in the project.,tear    ,crying,Positive,Emotion
+150,The tear in the painting was a significant loss for the art gallery.,tear    ,damage,Negative,Art
+151,His harsh words threatened to tear their family apart.,tear    ,divide,Negative,Family
+152,The storm's violence began to tear the roof off the house.,tear    ,damage,Negative,Weather
+153,The criticism was so severe that it could tear his self-esteem.,tear    ,damage,Negative,Feedback
+154,The tear in the fabric was impossible to repair.,tear    ,rip,Negative,Material
+155, The unexpected bad news brought a tear to her eye.,tear    ,crying,Negative,Emotion
+156,The athlete suffered a tear in his Achilles tendon.,tear    ,injury,Negative,Health
+157,The tear in the fabric was not noticeable.,tear    ,cut,Positive,Fabric
+158,The company's web traffic is a vital metric for digital marketing.     ,traffic,website visitors,Positive,Online Marketing
+159,The road traffic in major cities are managed well in rush hours.          ,traffic,jam,Positive,Transportation
+160,The well-managed traffic made our journey easy.,traffic,transportation,Positive,Transportation
+161,The traffic signal at this intersection is efficient.,traffic,signal,Positive,road
+162,Our visit to the tourist attraction was traffic-free.,traffic,flow,Positive,tourism
+163,The CEO's vision for the company is unparalleled.        ,vision,strategy,Positive,Business
+164,The employee's vision for the project was misunderstood.  ,vision,idea or plan,Negative,Artistic Misinterpretation
+165,Her deteriorating vision made it difficult to read.   ,vision,eyesight,Negative,Health
+166,His vision improved after getting prescription glasses. ,vision,eyesight,Positive,Eye-care
